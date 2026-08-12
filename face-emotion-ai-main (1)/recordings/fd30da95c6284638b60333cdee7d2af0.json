@@ -1,0 +1,58 @@
+{
+  "id": "fd30da95c6284638b60333cdee7d2af0",
+  "meta": {
+    "start_ts": 1765132544.5898337,
+    "duration_requested": 600.0,
+    "interval_s": 1.0,
+    "end_ts": 1765132556.6625168,
+    "samples": 9
+  },
+  "generated_at": "2025-12-07T18:35:56.662516Z",
+  "data": [
+    {
+      "ts": "2025-12-07T18:35:44.921362Z",
+      "label": "neutral",
+      "confidence": 0.36
+    },
+    {
+      "ts": "2025-12-07T18:35:46.324045Z",
+      "label": "neutral",
+      "confidence": 0.32
+    },
+    {
+      "ts": "2025-12-07T18:35:47.578521Z",
+      "label": "happy",
+      "confidence": 0.29
+    },
+    {
+      "ts": "2025-12-07T18:35:48.833844Z",
+      "label": "happy",
+      "confidence": 0.8
+    },
+    {
+      "ts": "2025-12-07T18:35:50.284699Z",
+      "label": "happy",
+      "confidence": 0.98
+    },
+    {
+      "ts": "2025-12-07T18:35:51.665054Z",
+      "label": "happy",
+      "confidence": 0.95
+    },
+    {
+      "ts": "2025-12-07T18:35:53.079717Z",
+      "label": "happy",
+      "confidence": 0.86
+    },
+    {
+      "ts": "2025-12-07T18:35:54.473393Z",
+      "label": "happy",
+      "confidence": 0.79
+    },
+    {
+      "ts": "2025-12-07T18:35:55.742971Z",
+      "label": "happy",
+      "confidence": 0.7
+    }
+  ]
+}

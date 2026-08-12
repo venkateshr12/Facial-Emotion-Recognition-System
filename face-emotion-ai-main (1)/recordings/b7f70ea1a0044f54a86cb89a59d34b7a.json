@@ -1,0 +1,108 @@
+{
+  "id": "b7f70ea1a0044f54a86cb89a59d34b7a",
+  "meta": {
+    "start_ts": 1765186296.4751773,
+    "duration_requested": 600.0,
+    "interval_s": 1.0,
+    "end_ts": 1765186322.6338193,
+    "samples": 19
+  },
+  "generated_at": "2025-12-08T09:32:02.633819Z",
+  "data": [
+    {
+      "ts": "2025-12-08T09:31:36.711807Z",
+      "label": "neutral",
+      "confidence": 0.87
+    },
+    {
+      "ts": "2025-12-08T09:31:38.061581Z",
+      "label": "neutral",
+      "confidence": 0.61
+    },
+    {
+      "ts": "2025-12-08T09:31:39.518452Z",
+      "label": "neutral",
+      "confidence": 0.85
+    },
+    {
+      "ts": "2025-12-08T09:31:41.124782Z",
+      "label": "happy",
+      "confidence": 0.91
+    },
+    {
+      "ts": "2025-12-08T09:31:42.781564Z",
+      "label": "happy",
+      "confidence": 0.96
+    },
+    {
+      "ts": "2025-12-08T09:31:44.548357Z",
+      "label": "happy",
+      "confidence": 0.96
+    },
+    {
+      "ts": "2025-12-08T09:31:46.008009Z",
+      "label": "happy",
+      "confidence": 0.93
+    },
+    {
+      "ts": "2025-12-08T09:31:47.809229Z",
+      "label": "neutral",
+      "confidence": 0.84
+    },
+    {
+      "ts": "2025-12-08T09:31:49.013136Z",
+      "label": "neutral",
+      "confidence": 0.84
+    },
+    {
+      "ts": "2025-12-08T09:31:50.468544Z",
+      "label": "neutral",
+      "confidence": 0.93
+    },
+    {
+      "ts": "2025-12-08T09:31:51.715554Z",
+      "label": "neutral",
+      "confidence": 0.92
+    },
+    {
+      "ts": "2025-12-08T09:31:53.346791Z",
+      "label": "neutral",
+      "confidence": 0.95
+    },
+    {
+      "ts": "2025-12-08T09:31:54.520115Z",
+      "label": "angry",
+      "confidence": 0.74
+    },
+    {
+      "ts": "2025-12-08T09:31:55.616408Z",
+      "label": "neutral",
+      "confidence": 0.88
+    },
+    {
+      "ts": "2025-12-08T09:31:56.797608Z",
+      "label": "none",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-08T09:31:57.913594Z",
+      "label": "neutral",
+      "confidence": 0.7
+    },
+    {
+      "ts": "2025-12-08T09:31:59.112641Z",
+      "label": "none",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-08T09:32:00.202013Z",
+      "label": "sad",
+      "confidence": 0.61
+    },
+    {
+      "ts": "2025-12-08T09:32:01.559237Z",
+      "label": "neutral",
+      "confidence": 0.85
+    }
+  ]
+}
