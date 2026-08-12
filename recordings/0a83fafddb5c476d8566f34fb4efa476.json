@@ -1,0 +1,48 @@
+{
+  "id": "0a83fafddb5c476d8566f34fb4efa476",
+  "meta": {
+    "start_ts": 1765168975.299047,
+    "duration_requested": 600.0,
+    "interval_s": 1.0,
+    "end_ts": 1765168985.397372,
+    "samples": 7
+  },
+  "generated_at": "2025-12-08T04:43:05.397371Z",
+  "data": [
+    {
+      "ts": "2025-12-08T04:42:56.635338Z",
+      "label": "neutral",
+      "confidence": 0.94
+    },
+    {
+      "ts": "2025-12-08T04:42:57.942612Z",
+      "label": "happy",
+      "confidence": 1.0
+    },
+    {
+      "ts": "2025-12-08T04:42:59.264703Z",
+      "label": "happy",
+      "confidence": 0.85
+    },
+    {
+      "ts": "2025-12-08T04:43:00.935047Z",
+      "label": "happy",
+      "confidence": 0.85
+    },
+    {
+      "ts": "2025-12-08T04:43:02.225072Z",
+      "label": "happy",
+      "confidence": 0.88
+    },
+    {
+      "ts": "2025-12-08T04:43:03.527389Z",
+      "label": "happy",
+      "confidence": 0.84
+    },
+    {
+      "ts": "2025-12-08T04:43:04.813527Z",
+      "label": "neutral",
+      "confidence": 0.96
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "9a9750ffac6d4a59af27a134656bf48b",
+  "meta": {
+    "start_ts": 1765186176.2001472,
+    "duration_requested": 600.0,
+    "interval_s": 1.0,
+    "end_ts": 1765186181.017299,
+    "samples": 4
+  },
+  "generated_at": "2025-12-08T09:29:41.017299Z",
+  "data": [
+    {
+      "ts": "2025-12-08T09:29:36.610748Z",
+      "label": "neutral",
+      "confidence": 0.45
+    },
+    {
+      "ts": "2025-12-08T09:29:37.755683Z",
+      "label": "none",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-08T09:29:38.877365Z",
+      "label": "neutral",
+      "confidence": 0.37
+    },
+    {
+      "ts": "2025-12-08T09:29:40.015976Z",
+      "label": "neutral",
+      "confidence": 0.59
+    }
+  ]
+}

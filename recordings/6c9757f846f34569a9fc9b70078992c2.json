@@ -1,0 +1,58 @@
+{
+  "id": "6c9757f846f34569a9fc9b70078992c2",
+  "meta": {
+    "start_ts": 1763560231.2157373,
+    "duration_requested": 10.0,
+    "interval_s": 1.0,
+    "end_ts": 1763560241.805709,
+    "samples": 9
+  },
+  "generated_at": "2025-11-19T13:50:41.807720Z",
+  "data": [
+    {
+      "ts": "2025-11-19T13:50:32.571364Z",
+      "label": "unknown",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-11-19T13:50:33.598479Z",
+      "label": "unknown",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-11-19T13:50:34.643885Z",
+      "label": "neutral",
+      "confidence": 0.84
+    },
+    {
+      "ts": "2025-11-19T13:50:35.668623Z",
+      "label": "neutral",
+      "confidence": 0.89
+    },
+    {
+      "ts": "2025-11-19T13:50:36.683348Z",
+      "label": "neutral",
+      "confidence": 0.92
+    },
+    {
+      "ts": "2025-11-19T13:50:37.719567Z",
+      "label": "neutral",
+      "confidence": 0.94
+    },
+    {
+      "ts": "2025-11-19T13:50:38.738083Z",
+      "label": "neutral",
+      "confidence": 0.87
+    },
+    {
+      "ts": "2025-11-19T13:50:39.764270Z",
+      "label": "neutral",
+      "confidence": 0.95
+    },
+    {
+      "ts": "2025-11-19T13:50:40.798056Z",
+      "label": "neutral",
+      "confidence": 0.77
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "294ee0bf867c4022910ac5741fe4d47d",
+  "meta": {
+    "start_ts": 1765133099.907359,
+    "duration_requested": 600.0,
+    "interval_s": 1.0,
+    "end_ts": 1765133128.599872,
+    "samples": 21
+  },
+  "generated_at": "2025-12-07T18:45:28.599872Z",
+  "data": [
+    {
+      "ts": "2025-12-07T18:45:00.133602Z",
+      "label": "neutral",
+      "confidence": 0.61
+    },
+    {
+      "ts": "2025-12-07T18:45:01.552704Z",
+      "label": "unknown",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-07T18:45:02.917061Z",
+      "label": "unknown",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-07T18:45:04.179915Z",
+      "label": "unknown",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-07T18:45:05.593476Z",
+      "label": "happy",
+      "confidence": 0.58
+    },
+    {
+      "ts": "2025-12-07T18:45:06.914198Z",
+      "label": "unknown",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-07T18:45:08.177649Z",
+      "label": "unknown",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-07T18:45:09.511001Z",
+      "label": "unknown",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-07T18:45:10.775640Z",
+      "label": "neutral",
+      "confidence": 0.84
+    },
+    {
+      "ts": "2025-12-07T18:45:12.037891Z",
+      "label": "happy",
+      "confidence": 0.99
+    },
+    {
+      "ts": "2025-12-07T18:45:13.627538Z",
+      "label": "unknown",
+      "confidence": 0.0
+    },
+    {
+      "ts": "2025-12-07T18:45:14.989300Z",
+      "label": "happy",
+      "confidence": 0.72
+    },
+    {
+      "ts": "2025-12-07T18:45:16.456409Z",
+      "label": "happy",
+      "confidence": 0.9
+    },
+    {
+      "ts": "2025-12-07T18:45:17.803446Z",
+      "label": "happy",
+      "confidence": 0.82
+    },
+    {
+      "ts": "2025-12-07T18:45:19.097879Z",
+      "label": "happy",
+      "confidence": 0.43
+    },
+    {
+      "ts": "2025-12-07T18:45:20.486196Z",
+      "label": "neutral",
+      "confidence": 0.92
+    },
+    {
+      "ts": "2025-12-07T18:45:21.799013Z",
+      "label": "neutral",
+      "confidence": 0.88
+    },
+    {
+      "ts": "2025-12-07T18:45:23.148149Z",
+      "label": "neutral",
+      "confidence": 0.89
+    },
+    {
+      "ts": "2025-12-07T18:45:24.668185Z",
+      "label": "neutral",
+      "confidence": 0.75
+    },
+    {
+      "ts": "2025-12-07T18:45:26.057200Z",
+      "label": "happy",
+      "confidence": 0.97
+    },
+    {
+      "ts": "2025-12-07T18:45:27.467119Z",
+      "label": "unknown",
+      "confidence": 0.0
+    }
+  ]
+}
